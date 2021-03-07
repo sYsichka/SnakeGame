@@ -1,0 +1,5 @@
+C:\Users\OOP14\Desktop\snake\snake\obj\Debug\snake.csprojAssemblyReference.cache
+C:\Users\OOP14\Desktop\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\OOP14\Desktop\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\OOP14\Desktop\snake\snake\obj\Debug\snake.csproj.GenerateResource.cache
+C:\Users\OOP14\Desktop\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
